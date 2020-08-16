@@ -1,0 +1,11 @@
+
+
+body{
+    margin: auto;
+    background-color: rgb(226, 245, 166);
+    color: chocolate;
+    font-size: 30px;
+    width: 80%;
+    text-align: center;
+    /* border: 2px solid red; */
+}
